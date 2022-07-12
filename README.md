@@ -4,4 +4,4 @@
 * Difficulties:
 * What was goood:
 # Wireframes & Design
-![Wireframe - 1](./marvel-img/thor_lob_crd_01.jpg)
+![Wireframe - 1](./DavidTesema/Movies-project/blob/main/movies-project/assest/marvel-img/captainmarvel_lob_crd_06.jpg)
