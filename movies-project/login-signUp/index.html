@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <!-- background image container-->
+    <div class="background-image">
+            <div class="form-box">
+                <!-- Top btn container -->
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <!-- Slide : btn log in -->
+                    <button type="button" class="toggle-btn" onclick="slideRight()">Log In </button>
+                    <!-- Slide : btn Register-->
+                    <button type="button" class="toggle-btn" onclick="slideLeft()">Register</button>
+                </div>
+                <!-- Log in inputs group -->
+                <div id="login" class="input-group">
+                    <!-- input : user name -->
+                    <input type="text" class="input-field" placeholder="User Name" required id="user-name">
+                     <!-- input : user pass -->
+                    <input type="password" class="input-field" placeholder="Enter Password" required id="user-pass">
+                    <!-- input : check box -->
+                    <input type="checkbox" class="chech-box"><span>Remember Password</span>
+                    <!-- btn log in -->
+                    <button id="btn-log-in" type="submit" class="submit-btn">Log in</button>
+                </div>
+                <!-- Register inputs group -->
+                <div id="register" class="input-group">
+                    <!-- input : user name -->
+                    <input type="text" class="input-field" placeholder="User Name"id="userID-localStorage" required>
+                    <!-- input : user email -->
+                    <input type="email" class="input-field" placeholder="Email Id"  id="email-localStorage" required>
+                    <!-- input : user pass -->
+                    <input type="password" class="input-field" placeholder="Enter Password"  id="pass-localStorage" required>
+                     <!-- input : check box -->
+                    <input type="checkbox" class="chech-box"><span>I agree to the terms & conditions</span>
+                    <!-- btn Register-->
+                    <button id="register-btn" type="submit" class="submit-btn">register</button>
+                </div>
+            </div>
+        </div>
+</body>
+<script src="js/app.js"></script>
+
+</html>

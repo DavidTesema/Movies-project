@@ -1,0 +1,17 @@
+  // bars style
+  .navbar-toggler-icon {
+    background-color: rgba(175, 7, 10, 0.759);
+    border-radius: 5px;
+  }
+  // Link nav bar style
+  .navbar-collapse {
+    .nav-item {
+      a {
+        color: white;
+      }  
+      a:hover {
+        color: red;
+        border-bottom: 1px solid red;
+      }
+    }
+  }
