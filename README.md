@@ -3,8 +3,8 @@
 * the website provide the user with a full library of movies in different categories
 # Project Flow
 * Difficulties:
-1. finding a reliable API was the hard part
-2. How to use export and import js .
+1. Finding a reliable API was the hard part
+2. How to use export and import .
 * What was goood:
 1. designing the page was and creating the website with the help of the wireframe design.
 # Wireframes & Design
