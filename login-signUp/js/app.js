@@ -36,6 +36,7 @@ function listData() {
   userIDLocalStorage.value = "";
   emailLocalStorage.value = "";
   passLocalStorage.value = "";
+  window.location.href = "../Loding/loding.html";
 }
 // Event btn register
 registerBtn.addEventListener("click", listData);
