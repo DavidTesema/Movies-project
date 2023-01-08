@@ -1,5 +1,5 @@
 # Movie and Subscription System
-This project is a movie and subscription system that allows users to browse and purchase movies and subscriptions, view their purchase history, and view information about each movie. It was developed using OOP, SCSS, local storage, and the TMDB API, as well as vanilla JavaScript.
+This project is a movie and subscription system that allows users to browse and subscriptions,  view information about each movie. It was developed using OOP, SCSS, local storage, and the TMDB API, as well as vanilla JavaScript.
 
 ## Technologies Used
 * OOP (Object-Oriented Programming)
