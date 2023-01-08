@@ -1,5 +1,5 @@
 # Movie and Subscription System
-This project is a movie and subscription system that allows users to browse and subscriptions,  view information about each movie. It was developed using OOP, SCSS, local storage, and the TMDB API, as well as vanilla JavaScript.
+This project is a movie and subscription system that allows users to browse and subscriptions,  view information about each movie. It was developed using OOP, SCSS, local storage, and the TMDB API, as well as vanilla JavaScript. Wireframes were created using Miro to plan the layout and functionality of the project.
 
 ## Technologies Used
 * OOP (Object-Oriented Programming)
