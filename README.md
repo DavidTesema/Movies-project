@@ -8,6 +8,8 @@ This project is a movie and subscription system that allows users to browse and 
 * TMDB API (The Movie Database API)
 * Vanilla JavaScript
 ## Features
+* Movie trailers
+* Search for movies by title
 * View movie details, including plot summary, cast, and release date
 
 ## API Key
